@@ -1,0 +1,3 @@
+echo "solana==0.20.0" > requirements.txt
+echo "spl-token==0.2.0" >> requirements.txt
+echo "bip_utils==2.4.0" >> requirements.txt
